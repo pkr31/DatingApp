@@ -1,0 +1,33 @@
+
+**************************************************  Angular  ***********************************************************
+Observable 
+we can subscribe and unsubscribe an observable
+
+
+
+
+
+***********************************************   .Net Core   ***********************************************************
+
+
+
+
+
+
+
+
+
+
+***********************************************   Others   ***********************************************************
+--- git commit --author="Praful Kumar <prafulkumar987@gmail.com>" -m "Commit for UpdatedResource : Section 10" ;
+
+ -dotnet ef migrations add "Initail"
+ -dotnet ef database update
+
+
+ -To completely remove all migrations and start all over again, do the following:
+
+		dotnet ef database update 0
+		dotnet ef migrations remove
+
+
